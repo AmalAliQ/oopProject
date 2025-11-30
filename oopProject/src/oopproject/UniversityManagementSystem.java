@@ -13,7 +13,7 @@ import java.util.Scanner;
  * - Encapsulation: Private fields with public getter methods
  * - Abstraction: Abstract Person and Employee classes
  * 
- * @author Amal Alqahtani ,Remas Aldossary, Rana Alyami, Asyah Almokainzi
+ * @author Amal Alqahtani 
  */
 
 public class UniversityManagementSystem {
