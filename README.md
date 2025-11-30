@@ -127,7 +127,7 @@ The system includes pre-loaded sample data:
 3. SCI101 - General Physics 1
 4. ENG103 - Technical Writing
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Menu
 ![Main Menu](screenshots/main-menu.png)
@@ -141,7 +141,7 @@ The system includes pre-loaded sample data:
 ### Display All Records
 ![Display Records](screenshots/display-records.png)
 
-## 🧪 Testing
+## Testing
 
 The system has been tested for:
 - ✅ Correct inheritance behavior
@@ -153,7 +153,7 @@ The system has been tested for:
 - ✅ Loop functionality (multiple entries)
 
 
-## 📝 Course Information
+## Course Information
 
 - **Course:** CS230 - Object Oriented Programming
 - **Institution:** [SEU - Saudi Electronic University]
@@ -163,7 +163,7 @@ The system has been tested for:
 
 This project is created for educational purposes as part of CS230 coursework.
 
-## 🙏 Acknowledgments
+## Acknowledgments 🧚🏼‍♀️
 
 - Course instructors for project guidance
 - Java documentation and community resources
