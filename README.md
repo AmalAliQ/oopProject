@@ -59,7 +59,7 @@ All classes use private fields with public getter methods to control access to d
 ### 4. **Abstraction**
 Abstract classes (`Person` and `Employee`) define common structure while leaving specific implementations to subclasses.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 oopproject/
@@ -95,7 +95,7 @@ javac oopproject/*.java
 java oopproject.UniversityManagementSystem
 ```
 
-## 💻 Usage
+## Usage
 
 ### Main Menu
 ```
