@@ -4,7 +4,7 @@ A Java-based console application for managing students and employees in a univer
 
 ## Table of Contents
 - [Features](#features)
-- [OOP Concepts](#oop-concepts)
+- [OOP Concepts](#OOP-University-Management-System-Concepts)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
