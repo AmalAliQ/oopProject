@@ -4,12 +4,12 @@ A Java-based console application for managing students and employees in a univer
 
 ## Table of Contents
 - [Features](#features)
-- [OOP Concepts](#OOP-University-Management-System-Concepts)
+- [OOP Concepts](#oop-university-management-system-concepts)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributors](#contributors)
+
 
 ##  Features
 
@@ -34,7 +34,7 @@ A Java-based console application for managing students and employees in a univer
   - Numbered record listing
   - Clear formatting for all person types
 
-##  OOP University Management System Concepts
+## OOP University Management System Concepts
 
 This project demonstrates four fundamental OOP principles:
 
